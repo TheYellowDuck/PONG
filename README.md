@@ -1,5 +1,7 @@
 # Pong
 
+https://github.com/user-attachments/assets/54ef0b10-a559-49a8-9805-efe1b83df394
+
 A fully playable Pong game built in Java with Swing, featuring local two-player multiplayer and a single-player mode against a predictive AI opponent.
 
 ## Features
@@ -29,7 +31,7 @@ The AI uses frame-by-frame physics simulation to project where the ball will lan
 
 Requires Java 11 or later.
 
-```
+```bash
 java -jar PONG.jar
 ```
 
